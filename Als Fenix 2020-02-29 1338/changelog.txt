@@ -1,0 +1,10 @@
+- little schedutil tweaks ( do not set freqs to uint_max, cache tunables on governor exit)
+- block tweaks
+- block\mmc\msm\media\genirq: use interruptible w8s
+- reduced max panel voltage
+- compiled with optimize_inlining
+- enabled next_buddy for better cache locality
+- sched_child_runs_first: to improve app opening times
+- Disable execution limit for rt tasks
+- dev\random linked to dev\urandom
+- undervolted gpu by 45mv
