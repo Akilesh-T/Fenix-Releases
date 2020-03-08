@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Fenix",
-    "version": "r1",
-    "link": "https://github.com/Akilesh-T/Fenix-Releases/raw/master/Als-Fenix-20200229-1338/Als-Fenix-20200229-1338.zip",
-    "changelog_url": "https://raw.githubusercontent.com/Akilesh-T/Fenix-Releases/master/Als-Fenix-20200229-1338/changelog.txt",
-    "date": "2020-02-29",
-    "sha1": "bac8606a03d15b98687d91dedcd6374f31da151d"
+    "version": "r2",
+    "link": "https://github.com/Akilesh-T/Fenix-Releases/raw/master/Als-Fenix-20200303-1601/Als-Fenix-20200303-1601.zip",
+    "changelog_url": "https://raw.githubusercontent.com/Akilesh-T/Fenix-Releases/master/Als-Fenix-20200303-1601/changelog.txt",
+    "date": "2020-03-03",
+    "sha1": "0809882e75a564d889a3776e81cb7634acc842a7"
   },
   "support": {
     "link": ""
