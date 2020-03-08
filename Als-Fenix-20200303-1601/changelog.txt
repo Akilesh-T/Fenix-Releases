@@ -1,0 +1,7 @@
+-upstreamed to 4.4.215
+-reverted to nysaboi em
+Some revision to older commits:
+-revert kgsl to stock (popp is back, with no sultan commits added)
+-slightly undervolted the gpu (-25mv)
+-reverted all the rcu commits in 660\630 dtsi to clean state
+-reverted the ddrbus to performance governor
